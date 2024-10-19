@@ -1,0 +1,8 @@
+#Todo
+
+#How the game should work
+1. I move the character with my Arrow buttons moving a character
+2. The environment is covered with blocks designed to take a certain shape
+3. They's an enpoint to move the crates to.
+4. If i successfully move all the crates into the endpoints, I will
+

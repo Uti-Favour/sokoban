@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+ 
+}
+
+.canvas_style{
+  overflow: hidden;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+/* I have to center the canvas */
+/* I'll do that later 🥲 */
+
+/* I don't need the css provided by vite */
